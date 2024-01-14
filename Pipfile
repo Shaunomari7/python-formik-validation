@@ -52,8 +52,9 @@ tomli = "2.0.1"
 traitlets = "5.5.0"
 wcwidth = "0.2.5"
 zipp = "3.10.0"
+requests = "*"
 
 [dev-packages]
 
 [requires]
-python_full_version = "3.8.13"
+python_full_version = "3.9.6"
